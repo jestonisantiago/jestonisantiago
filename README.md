@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jestonisantiago
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning PHP and Python.
+- 🌱 I’m currently learning PHP, Python, MySQL and etc.
 - 💞️ I’m looking to collaborate on projects that interest both of us.
 - 📫 You can email me anytime at santiago.jestoni01@gmail.com
 
